@@ -34,7 +34,7 @@ Feel free to experiment with the code and improve the model's performance or ada
 - **Pandas**
 
 ## Acknowledgements
-Inspired by Andrej Karpathy's work on character-level language models and the PyTorch documentation on Transformer models.
+Drawn by Andrej Karpathy's work on character-level language models. All I did was use his code for the Shakespeare dataset. 
 
 ## Citation for data
 ```plaintext
